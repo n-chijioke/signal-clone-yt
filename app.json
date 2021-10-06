@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "signal-clone-yt",
+    "slug": "signal-clone-yt",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "signal-clone-yt"
+}
